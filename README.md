@@ -11,12 +11,11 @@ Digitar a nota AC2
 Digitar a nota AG
 Digitar a nota AF
 Calcular a Média Final 
-Enquanto Valor da média é Maior ou Igual a 5? Faça
+Se Valor da média é Maior ou Igual a 5? Faça
      Informar que o aluno foi Aprovado
-Fim Enquanto
-Enquanto Valor da média é Menor que 5? Faça
+Senão
      Informar que o aluno foi Reprovado
-Fim Enquanto     
+     
 ```
 
 Fim
