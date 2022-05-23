@@ -6,13 +6,15 @@
 Início
 
 ```
- Enquanto Existem disciplinas? Faça
-      Enquanto Existem alunos? Faça
-	Ler as notas de um aluno da disciplina em questão
-	Calcular a nota final
-	Exibir sua nota
-      Fim Enquanto
- Fim Enquanto    
+Digitar a nota AC1
+Digitar a nota AC2
+Digitar a nota AG
+Digitar a nota AF
+Calcular a Média Final 
+**Se** Valor da média for Maior ou Igual a 5
+     Informar que o aluno foi Aprovado
+**Senão** 
+     Informar que o aluno foi Reprovado
 ```
 
 Fim
