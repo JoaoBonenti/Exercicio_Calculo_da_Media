@@ -11,9 +11,9 @@ Digitar a nota AC2
 Digitar a nota AG
 Digitar a nota AF
 Calcular a Média Final 
-**Se** Valor da média for Maior ou Igual a 5
+__Se__ Valor da média for Maior ou Igual a 5
      Informar que o aluno foi Aprovado
-**Senão** 
+__Senão__ 
      Informar que o aluno foi Reprovado
 ```
 
