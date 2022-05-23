@@ -13,7 +13,8 @@ Digitar a nota AF
 Calcular a Média Final 
 Enquanto Valor da média é Maior ou Igual a 5? Faça
      Informar que o aluno foi Aprovado
-Senão
+Fim Enquanto
+Enquanto Valor da média é Menor que 5? Faça
      Informar que o aluno foi Reprovado
 Fim Enquanto     
 ```
